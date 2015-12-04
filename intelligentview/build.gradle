@@ -99,34 +99,3 @@ bintray {
     publish = true
   }
 }
-
-
-
-
-
-//def mLibraryVersion = 0.2
-//ext {
-//  bintrayRepo = 'maven'
-//  bintrayName = 'intelligentdroid-kit-view'
-//
-//  publishedGroupId = 'intelligent.kit.view'
-//  libraryName = 'intelligentdroid-kit-view'
-//  artifact = 'intelligentdroid-kit-view'
-//
-//  libraryDescription = 'self view '
-//
-//  siteUrl = 'https://github.com/jayronlou/intelligentdroid-kit'
-//  gitUrl = 'https://github.com/jayronlou/intelligentdroid-kit.git'
-//
-//  libraryVersion = "${mLibraryVersion}"
-//
-//  developerId = 'jayronlou'
-//  developerName = 'jayronlou'
-//  developerEmail = 'intelligentdroid@gmail.com'
-//
-//  licenseName = 'GNU GENERAL PUBLIC LICENSE, Version 2.0'
-//  licenseUrl = 'https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html#SEC1'
-//  allLicenses = ["GPL-2.0"]
-//}
-//apply from: '../install.gradle'
-//apply from: '../bintray.gradle'

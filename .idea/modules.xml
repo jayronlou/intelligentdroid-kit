@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autoadaption/autoadaption.iml" filepath="$PROJECT_DIR$/autoadaption/autoadaption.iml" />
       <module fileurl="file://$PROJECT_DIR$/intelligentdroid-kit.iml" filepath="$PROJECT_DIR$/intelligentdroid-kit.iml" />
       <module fileurl="file://$PROJECT_DIR$/intelligentview/intelligentview.iml" filepath="$PROJECT_DIR$/intelligentview/intelligentview.iml" />
       <module fileurl="file://$PROJECT_DIR$/network/network.iml" filepath="$PROJECT_DIR$/network/network.iml" />

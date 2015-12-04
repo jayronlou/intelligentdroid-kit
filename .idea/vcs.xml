@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="svn" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/autoadaption" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/intelligentview" vcs="svn" />
   </component>
 </project>

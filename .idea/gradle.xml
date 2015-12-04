@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/autoadaption" />
             <option value="$PROJECT_DIR$/intelligentview" />
             <option value="$PROJECT_DIR$/network" />
           </set>
@@ -19,6 +20,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/autoadaption" />
             <option value="$PROJECT_DIR$/intelligentview" />
             <option value="$PROJECT_DIR$/network" />
           </set>
